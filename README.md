@@ -33,12 +33,20 @@ scikit-learn – Model building and evaluation
 joblib – Model saving/loading
 
 📂 Project Structure
+
+
 ├── loanprediction.ipynb    # Main Jupyter Notebook
+
 ├── data/                   # Dataset files (train.csv, test.csv)
+
 ├── README.md               # Project documentation
+
 └── requirements.txt        # Required Python packages
 
+
 📊 Model Workflow
+
+
 Load dataset
 
 Clean and preprocess data
