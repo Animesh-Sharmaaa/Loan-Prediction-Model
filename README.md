@@ -1,4 +1,6 @@
-Loan Prediction Model
+**Loan Prediction Model**
+
+
 📌 Overview
 This project predicts the likelihood of a loan application being approved based on applicant details such as income, credit history, and other demographic information.
 The model uses machine learning techniques to process input features and output a binary decision: Loan Approved or Loan Not Approved.
